@@ -7,7 +7,7 @@ Easy to use WebP tools. Image conversion, image viewing, etc.
 To be filled.
 
 ## Downloads
-**Current Version: [WebP-ConvertBAT v1 (Windows)](https://github.com/Shedou/WebP-ConvertBAT/releases/tag/r1_win)** - [![Github Releases](https://img.shields.io/github/downloads/Shedou/WebP-ConvertBAT/r1_win/total.svg)](https://github.com/Shedou/WebP-ConvertBAT/releases/tag/r1_win)
+**Current Version: [WebP-ConvertBAT Windows v1](https://github.com/Shedou/WebP-ConvertBAT/releases/tag/r1_win)** - [![Github Releases](https://img.shields.io/github/downloads/Shedou/WebP-ConvertBAT/r1_win/total.svg)](https://github.com/Shedou/WebP-ConvertBAT/releases/tag/r1_win)
 
 ## Install:
 1) Place the program in the following path: "C:\_PORTABLE_\WebP_ConvertBAT_Win_v1"
